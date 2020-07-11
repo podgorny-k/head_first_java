@@ -1,4 +1,4 @@
-package fhj.guessgame;
+package main.fhj.guessgame;
 
 public class Player {
     int number = 0;
